@@ -1,9 +1,7 @@
-flask
-ccxt
-asyncio
-pandas
-json
-numpy
-websockets
-python-telegram-bot
-dotenv
+ccxt==1.69.0
+pandas==1.5.3
+numpy==1.23.5
+websockets==10.3
+python-telegram-bot==13.12
+python-dotenv==0.20.0
+Flask==2.2.2
