@@ -1,0 +1,9 @@
+flask
+ccxt
+asyncio
+pandas
+json
+numpy
+websockets
+python-telegram-bot
+dotenv
