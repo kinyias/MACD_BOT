@@ -1,8 +1,7 @@
-ccxt==4.0.69
-pandas==1.5.3
-numpy==1.23.5
-websockets==10.3
-python-telegram-bot==13.12
-python-dotenv==0.20.0
-Flask==2.2.2
-Werkzeug==2.2.2
+ccxt==4.3.62
+Flask==3.0.3
+numpy==2.0.1
+pandas==2.2.2
+python-dotenv==1.0.1
+python-telegram-bot==21.4
+websockets==12.0
